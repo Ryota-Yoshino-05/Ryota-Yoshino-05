@@ -30,12 +30,14 @@ Here are some ideas to get you started:
 - Unity / C#
 - Java
 
-**学習中 🌱**
+**学習中**
 - Rust
 
 ## プロジェクト
-- 2Dシューティングゲーム　千鬼一命 　(https://unityroom.com/games/senki_itimei)
+- 2Dシューティングゲーム 千鬼一命　(https://unityroom.com/games/senki_itimei)
   - Unity / C#
+- 教育者向け知見共有プラットフォーム adteach (https://adteach.org)
+  - Django, GCP (Cloud SQL / Cloud Run), Resend
 
 ## 現在の取り組み
 - FreeCodeCamp
