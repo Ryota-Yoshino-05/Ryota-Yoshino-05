@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 **使用経験あり**
 - HTML, CSS, JavaScript
 - Unity / C#
+- Java
 
 **学習中 🌱**
 - Rust
