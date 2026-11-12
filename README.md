@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Ryota-Yoshino-05/Ryota-Yoshino-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +32,8 @@ Here are some ideas to get you started:
 - Rust
 
 ## プロジェクト
-
+- 2Dシューティングゲーム　千鬼一命 　(https://unityroom.com/games/senki_itimei)
+  - Unity / C#
 
 ## 現在の取り組み
 - FreeCodeCamp
